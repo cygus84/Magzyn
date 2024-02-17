@@ -1,0 +1,6 @@
+Pragraf magazyn surowcow:
+- kolory tla surowca w zaleznosci od ilosc
+
+https://www.h2database.com/html/download.html 
+
+Platform-Independent Zip (SHA1 checksum: 5ff027217098bf6c800ef96b98f3a381b320e53d)
