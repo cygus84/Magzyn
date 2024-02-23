@@ -1,0 +1,1 @@
+# Pomoce do projektu Magazyn
